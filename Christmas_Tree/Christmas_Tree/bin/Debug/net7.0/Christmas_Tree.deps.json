@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Christmas_Tree/1.0.0": {
+        "runtime": {
+          "Christmas_Tree.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Christmas_Tree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

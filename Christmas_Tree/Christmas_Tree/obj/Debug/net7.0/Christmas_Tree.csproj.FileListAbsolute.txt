@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/bin/Debug/net7.0/Christmas_Tree
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/bin/Debug/net7.0/Christmas_Tree.deps.json
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/bin/Debug/net7.0/Christmas_Tree.runtimeconfig.json
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/bin/Debug/net7.0/Christmas_Tree.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/bin/Debug/net7.0/Christmas_Tree.pdb
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.AssemblyInfo.cs
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/refint/Christmas_Tree.dll
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.pdb
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/Christmas_Tree.genruntimeconfig.cache
+/Users/user/Documents/GitHub/Personal-Account/Christmas_Tree/Christmas_Tree/obj/Debug/net7.0/ref/Christmas_Tree.dll
